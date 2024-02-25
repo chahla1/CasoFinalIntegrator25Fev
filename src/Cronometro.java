@@ -10,7 +10,6 @@ public class Cronometro {
     }
 
     public void displayTime() {
-        // Implementa la lógica para mostrar el tiempo en segundos, minutos, horas, días y años
-        // Puedes usar divisiones y módulos para realizar los cálculos necesarios
+
     }
 }
